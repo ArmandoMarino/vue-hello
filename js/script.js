@@ -13,7 +13,7 @@ const app = Vue.createApp({
     data() {
         return{
             message: "Ciao classe 83 !",
-            imageUrl: "https://i.picsum.photos/id/284/200/200.jpg?hmac=_el2jO-f8UzHfdcTCAXQOD8XX2N6jqVZHwvC23Xm8p8",
+            imageUrl: "https://picsum.photos/200",
         }
     }
 });
